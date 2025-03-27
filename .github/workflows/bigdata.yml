@@ -2,7 +2,7 @@ name: Actividad Enriquecimiento de Datos
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:
