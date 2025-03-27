@@ -49,3 +49,24 @@
 
 * Realizar un commit automático con los cambios generados.
 
+
+## Estructura del proyecto
+
+├── setup.py
+├── README.md
+├── .github
+│   └── workflows
+│       └── bigdata.yml
+└── src
+    ├── static
+    │   └── auditoria
+    │       └── enriched_report.txt
+    ├── db
+    │   ├── ingestion.db
+    │   ├── RickAndMortyScripts.xlsx
+    │   └── cleaned_data.xlsx
+    ├── xlsx
+    │   ├── enriched_data.xlsx
+    └── enrichment.py
+  
+        
