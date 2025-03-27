@@ -33,7 +33,7 @@
 
 ## Workflow Automatizado en GitHub Actions
 
-### El proceso de preprocesamiento y limpieza se ejecuta automáticamente en GitHub Actions    cuando hay un push en la rama main. El workflow bigdata.yml sigue los siguientes pasos:
+### El proceso de Enriquecimiento de Datos se ejecuta automáticamente en GitHub Actions    cuando hay un push en la rama main. El workflow bigdata.yml sigue los siguientes pasos:
 
 * Clonar el repositorio.
 
