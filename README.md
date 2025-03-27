@@ -23,8 +23,6 @@
 
 * Lectura de Datos Adicionales: Se obtiene RickAndMortyScripts.xlsx.
 
-* Identifica y elimina duplicados.
-
 * Enriquecimiento: Se fusionan ambos datasets en la hoja episodes.
 
 * Generación de Evidencia: Se genera enriched_data.xlsx y el reporte de auditoría enriched_report.txt.
